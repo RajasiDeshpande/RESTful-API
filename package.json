@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "ejs": "^3.1.10",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "method-override": "^3.0.0",
+    "mysql2": "^3.9.8",
+    "nodemon": "^3.1.1",
+    "uuid": "^9.0.1"
   }
 }

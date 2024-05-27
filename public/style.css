@@ -1,0 +1,25 @@
+button{
+    background-color: blueviolet;
+    font-weight: bold;
+}
+button:hover{
+    border-radius:10px;
+}
+.delete:hover{
+    background-color: red;
+    color:white;
+}
+.edit:hover{
+    background-color:green;
+    color: yellow;
+}
+.headrow{
+    background-color: pink;
+}
+.row{
+    background-color: aqua;
+}
+.adduser{
+    background-color:yellow;
+    color:black;
+}
